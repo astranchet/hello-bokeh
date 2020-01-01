@@ -28,3 +28,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+## Compiler CSS
+
+sass assets/sass/main.scss assets/css/main.css
