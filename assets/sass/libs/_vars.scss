@@ -21,8 +21,8 @@
 
 // Font.
 	$font: (
-		family:				('Raleway', 'Open Sans', sans-serif),
-		family-heading:		('Roboto Slab', serif),
+		family:				('Open Sans', sans-serif),
+		family-heading:		('Raleway', 'Roboto Slab', serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				400,
 		weight-bold:		600,
@@ -32,6 +32,7 @@
 	);
 
 // Palette.
+// FCE5CD
 	$palette: (
 		bg:					#ffffff,
 		bg-alt:				#f5f6f7,
