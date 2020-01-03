@@ -11,7 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
         <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
-        <!-- <script type="text/javascript" src="assets/js/instafeed.min.js"></script> -->
+        <script type="text/javascript" src="assets/js/instafeed.min.js"></script>
 
 
         <link rel="shortcut icon" href="assets/hello-bokeh-logo-small.ico">
@@ -141,23 +141,34 @@ efficaces et pragmatiques en accord avec les besoins utilisateurs.</p>
 									</div>
 								</section>
 
-<!-- 								<section>
+								<section>
 									<header class="major">
 										<h2>Mais aussi...</h2>
 									</header>
-									<p>Passionnée de photo et ne connaissant définitivement pas l'ennui, je passe mes soirées et mes week-ends à prendre en photo des gens qui s'aiment.</p>
+									<p>Passionnée de photo, je suis aussi photographe : j'aime particulièrement prendre en photo des gens qui s'aiment.</p>
 
-									<div id="instafeed"></div>
+										<div class="box alt">
+											<div class="row gtr-50 gtr-uniform" id="instafeed"></div>
+										</div>
 
-									<script type="text/javascript">
-									    var userFeed = new Instafeed({
-									        get: 'user',
-									        userId: '5949348891', // hellobokeh
-									        accessToken: 'YOUR_ACCESS_TOKEN'
-									    });
-									    userFeed.run();
-									</script>
-								</section> -->
+										<div  class=""></div>
+
+										<script type="text/javascript">
+										    var userFeed = new Instafeed({
+										        get: 'user',
+										        userId: '5949348891', // hellobokeh
+										        accessToken: '5949348891.1677ed0.103830a62690492998ac0fd13dfb492c', // https://instagram.pixelunion.ne
+										        limit: 12,
+										        template: '<div class="col-2"><span class="image fit"><a href="{{link}}"><img src="{{image}}" /></a></div>'
+										    });
+										    userFeed.run();
+										</script>
+
+
+									<div class="row aln-center">
+										<p><a href="http://hello-bokeh.fr/portfolio/" class="button icon solid fa-camera">Découvrir mon travail photographique</a></p>
+									</div>
+								</section>
 						</div>
 					</div>
 
