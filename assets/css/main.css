@@ -2270,4 +2270,25 @@ button,
 #instafeed a {
   border: none; }
 
+#available {
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 0;
+  width: 200px;
+  overflow: hidden;
+  height: 200px;
+  z-index: 9999; }
+  #available a {
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    right: -55px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); */ }
+
 /*# sourceMappingURL=main.css.map */
