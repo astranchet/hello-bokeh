@@ -33,3 +33,12 @@ Credits:
 ## Compiler CSS
 
 sass assets/sass/main.scss assets/css/main.css
+/usr/local/bin/sassc assets/sass/main.scss assets/css/main.css
+
+## local
+
+php -R 
+
+## Accessibilité
+
+http://localhost:3000/?n=Blanc&n=Alt&n=Light&n=FG&n=Bold&n=Black&n=Accent&n=Accent%202&v=FFFFFF&v=F5F6F7&v=9FA3A6&v=7F888F&v=3D4449&v=000000&v=F3973E&v=BE4A02
