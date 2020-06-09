@@ -33,13 +33,16 @@
 
 // Palette.
 // FCE5CD
+// #9fa3a6,
 	$palette: (
 		bg:					#ffffff,
 		bg-alt:				#f5f6f7,
-		fg:					#7f888f,
+		fg:					#6E7881,
 		fg-bold:			#3d4449,
-		fg-light:			#9fa3a6,
+		fg-light:			#6d7174, 
 		border:				rgba(210,215,217,0.75),
 		border-bg:			transparentize(#e6ebed, 0.75),
-		accent:				#F3973E
+		accent:				#F3973E,
+		accent-bold:		#BE4A02,
+		black:				#000
 	);
