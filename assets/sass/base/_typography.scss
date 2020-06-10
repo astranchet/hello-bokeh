@@ -32,12 +32,12 @@
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
 		border-bottom: dotted 1px;
-		color: _palette(accent);
+		color: _palette(btn);
 		text-decoration: none;
 
 		&:hover {
-			border-bottom-color: _palette(accent);
-			color: _palette(accent) !important;
+			border-bottom-color: _palette(btn);
+			color: _palette(btn) !important;
 
 			strong {
 				color: inherit;
