@@ -31,9 +31,21 @@
 		kerning-heading:	0.075em
 	);
 
+// https://stackoverflow.com/questions/49016145/how-create-solid-rainbow-border-with-css
+// https://fossheim.io/
+:root {
+    --red: #d92027;
+    --orange: #ff9234;
+    --yellow: #ffcd3c;
+    --green: #35d0ba;
+    --blue: #008297;
+    --purple: #A7489B;
+}
+
+
+
+
 // Palette.
-// FCE5CD
-// #9fa3a6,
 	$palette: (
 		bg:					#ffffff,
 		bg-alt:				#f5f6f7,
@@ -45,5 +57,6 @@
 		accent:				#F3973E,
 		btn:				#008297,
 		accent-bold:		#BE4A02,
-		black:				#000
+		black:				#000,
+		rainbow: linear-gradient( 120deg, var(--red) 15%, var(--orange) 15%, var(--orange) 30%, var(--yellow) 30%, var(--yellow) 45%, var(--green) 45%, var(--green) 60%, var(--blue) 60%, var(--blue) 75%, var(--purple) 75%)
 	);

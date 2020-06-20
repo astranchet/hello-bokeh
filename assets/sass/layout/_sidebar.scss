@@ -100,6 +100,7 @@
 			top: 0;
 			width: 6em;
 			z-index: _misc(z-index-base);
+			color: _palette(rainbow);
 
 			&:before {
 				content: '\f0c9';
