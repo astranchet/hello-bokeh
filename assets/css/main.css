@@ -1012,6 +1012,9 @@ header.major > :last-child {
 header.main > :last-child {
   margin: 0 0 1em 0; }
 
+#main header.major > :last-child {
+  border-image: linear-gradient(120deg, var(--red) 15%, var(--orange) 15%, var(--orange) 30%, var(--yellow) 30%, var(--yellow) 45%, var(--green) 45%, var(--green) 60%, var(--blue) 60%, var(--blue) 75%, var(--purple) 75%) 10; }
+
 /* Form */
 form {
   margin: 0 0 2em 0; }
@@ -1516,19 +1519,22 @@ button,
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  white-space: nowrap; }
+  white-space: nowrap;
+  background-color: #3d4449;
+  box-shadow: none;
+  color: #ffffff !important; }
   input[type="submit"]:hover,
   input[type="reset"]:hover,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    background-color: rgba(0, 130, 151, 0.05); }
+    background-color: rgba(61, 68, 73, 0.05); }
   input[type="submit"]:active,
   input[type="reset"]:active,
   input[type="button"]:active,
   button:active,
   .button:active {
-    background-color: rgba(0, 130, 151, 0.15); }
+    background-color: rgba(61, 68, 73, 0.15); }
   input[type="submit"].icon:before,
   input[type="reset"].icon:before,
   input[type="button"].icon:before,

@@ -41,4 +41,4 @@ php -R
 
 ## Accessibilité
 
-http://localhost:3000/?n=Blanc&n=Alt&n=Light&n=FG&n=Bold&n=Black&n=Accent&n=Accent%202&v=FFFFFF&v=F5F6F7&v=9FA3A6&v=7F888F&v=3D4449&v=000000&v=F3973E&v=BE4A02
+http://localhost:3000/?n=white&n=red&n=orange&n=yellow&n=green&n=blue&n=purple&n=fg&n=fg%20bold&v=FFFFFF&v=D92027&v=FF9234&v=FFCD3C&v=35D0BA&v=008297&v=A7489B&v=68727B&v=3D4449

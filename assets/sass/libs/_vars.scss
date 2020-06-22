@@ -58,5 +58,6 @@
 		btn:				#008297,
 		accent-bold:		#BE4A02,
 		black:				#000,
-		rainbow: linear-gradient( 120deg, var(--red) 15%, var(--orange) 15%, var(--orange) 30%, var(--yellow) 30%, var(--yellow) 45%, var(--green) 45%, var(--green) 60%, var(--blue) 60%, var(--blue) 75%, var(--purple) 75%)
+		rainbow: linear-gradient( 120deg, var(--red) 15%, var(--orange) 15%, var(--orange) 30%, var(--yellow) 30%, var(--yellow) 45%, var(--green) 45%, var(--green) 60%, var(--blue) 60%, var(--blue) 75%, var(--purple) 75%),
+		rainbow2: repeating-linear-gradient(to right, var(--red) 0px, var(--red) 50px, var(--orange) 50px, var(--orange) 100px, var(--yellow) 100px, var(--yellow) 150px, var(--green) 150px, var(--green) 200px, var(--blue) 200px, var(--blue) 250px, var(--purple) 250px, var(--purple) 300px)
 	);

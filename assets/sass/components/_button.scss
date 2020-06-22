@@ -35,12 +35,16 @@
 		text-transform: uppercase;
 		white-space: nowrap;
 
+		background-color: _palette(fg-bold);
+		box-shadow: none;
+		color: _palette(bg) !important;
+		
 		&:hover {
-			background-color: transparentize(_palette(btn), 0.95);
+			background-color: transparentize(_palette(fg-bold), 0.95);
 		}
 
 		&:active {
-			background-color: transparentize(_palette(btn), 0.85);
+			background-color: transparentize(_palette(fg-bold), 0.85);
 		}
 
 		&.icon {
