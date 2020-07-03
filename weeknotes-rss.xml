@@ -7,6 +7,14 @@
     <atom:link href="https://www.hello-bokeh.fr/weeknotes-rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Semaine 26 et 27</title>
+        <link>https://www.hello-bokeh.fr/weeknotes.html#week-27</link>
+        <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-27</guid>
+        <pubDate>Fri, 3 Jul 2020 13:00:00 GMT</pubDate>
+        <description>Rencontres, formations et jury <a href="https://www.hello-bokeh.fr/weeknotes.html#week-25">Lire mes notes de la semaine</a></description>
+    </item>
+
+    <item>
         <title>Semaine 25</title>
         <link>https://www.hello-bokeh.fr/weeknotes.html#week-25</link>
         <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-25</guid>
