@@ -7,11 +7,60 @@
     <atom:link href="https://www.hello-bokeh.fr/weeknotes-rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Semaine 35</title>
+        <link>https://www.hello-bokeh.fr/weeknotes.html#week-35</link>
+        <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-35</guid>
+        <pubDate>Sat, 30 Aug 2020 13:00:00 GMT</pubDate>
+        <description><a href="https://www.hello-bokeh.fr/weeknotes.html#week-35">Lire mes notes de la semaine</a></description>
+    </item>
+
+    <item>
+        <title>Semaine 34</title>
+        <link>https://www.hello-bokeh.fr/weeknotes.html#week-34</link>
+        <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-34</guid>
+        <pubDate>Sat, 22 Aug 2020 13:00:00 GMT</pubDate>
+        <description><a href="https://www.hello-bokeh.fr/weeknotes.html#week-34">Lire mes notes de la semaine</a></description>
+    </item>
+
+    <item>
+        <title>Semaine 31</title>
+        <link>https://www.hello-bokeh.fr/weeknotes.html#week-31</link>
+        <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-31</guid>
+        <pubDate>Sun, 09 Aug 2020 13:00:00 GMT</pubDate>
+        <description><a href="https://www.hello-bokeh.fr/weeknotes.html#week-31">Lire mes notes de la semaine</a></description>
+    </item>
+
+    <item>
+        <title>Semaine 30</title>
+        <link>https://www.hello-bokeh.fr/weeknotes.html#week-30</link>
+        <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-30</guid>
+        <pubDate>Sun, 26 Jul 2020 13:00:00 GMT</pubDate>
+        <description><a href="https://www.hello-bokeh.fr/weeknotes.html#week-30">Lire mes notes de la semaine</a></description>
+    </item>
+
+    <item>
+        <title>Semaine 29</title>
+        <link>https://www.hello-bokeh.fr/weeknotes.html#week-29</link>
+        <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-29</guid>
+        <pubDate>Sun, 19 Jul 2020 13:00:00 GMT</pubDate>
+        <description><a href="https://www.hello-bokeh.fr/weeknotes.html#week-29">Lire mes notes de la semaine</a></description>
+    </item>
+
+
+    <item>
+        <title>Semaine 28</title>
+        <link>https://www.hello-bokeh.fr/weeknotes.html#week-28</link>
+        <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-28</guid>
+        <pubDate>Sun, 12 Jul 2020 13:00:00 GMT</pubDate>
+        <description><a href="https://www.hello-bokeh.fr/weeknotes.html#week-28">Lire mes notes de la semaine</a></description>
+    </item>
+
+    <item>
         <title>Semaine 26 et 27</title>
         <link>https://www.hello-bokeh.fr/weeknotes.html#week-27</link>
         <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-27</guid>
         <pubDate>Fri, 3 Jul 2020 13:00:00 GMT</pubDate>
-        <description>Rencontres, formations et jury <a href="https://www.hello-bokeh.fr/weeknotes.html#week-25">Lire mes notes de la semaine</a></description>
+        <description>Rencontres, formations et jury <a href="https://www.hello-bokeh.fr/weeknotes.html#week-27">Lire mes notes de la semaine</a></description>
     </item>
 
     <item>
