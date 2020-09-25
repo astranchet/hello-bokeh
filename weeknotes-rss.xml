@@ -7,6 +7,14 @@
     <atom:link href="https://www.hello-bokeh.fr/weeknotes-rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
+        <title>Semaine 38</title>
+        <link>https://www.hello-bokeh.fr/weeknotes.html#week-38</link>
+        <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-38</guid>
+        <pubDate>Fri, 25 Sep 2020 13:00:00 GMT</pubDate>
+        <description><a href="https://www.hello-bokeh.fr/weeknotes.html#week-37">Lire mes notes de la semaine</a></description>
+    </item>
+
+    <item>
         <title>Semaine 37</title>
         <link>https://www.hello-bokeh.fr/weeknotes.html#week-37</link>
         <guid isPermaLink="true">https://www.hello-bokeh.fr/weeknotes.html#week-37</guid>
