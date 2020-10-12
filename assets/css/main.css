@@ -1301,6 +1301,9 @@ dl {
   dl dd {
     margin-left: 2em; }
 
+.weeknotes h2 + p + ul p, .weeknotes h2 + p + ul ul {
+  margin-bottom: 0; }
+
 /* Actions */
 ul.actions {
   display: -moz-flex;
